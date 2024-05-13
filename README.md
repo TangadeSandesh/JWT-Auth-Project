@@ -1,7 +1,7 @@
 # JWT-Auth-Project
 
 # JWT Authentication Project
-This project is a full-stack application that implements JWT (JSON Web Token) authentication. It consists of a backend server built with Node.js, Express.js, and MySQL, and a frontend client built with your preferred frontend framework Vite with React.
+This project is a full-stack application that implements JWT (JSON Web Token) authentication. It consists of a backend server built with Node.js, Express.js, and MySQL, and a frontend client built with your preferred frontend framework React.
 ![image](https://github.com/TangadeSandesh/JWT-Auth-Project/assets/129480090/13436089-97dc-42c4-9dd2-919093f831c5)
 
 ![image](https://github.com/TangadeSandesh/JWT-Auth-Project/assets/129480090/084b77bb-8307-4e70-8a84-c4ab26043bb9)
