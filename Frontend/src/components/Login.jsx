@@ -26,7 +26,6 @@ function Login() {
   console.log("request is sent");
  }
 
-
   return (
     <div className='container-fluid mt-3 d-flex d-flex justify-content-center align-items-center bg-light vh-100'>
           <form onSubmit={handleSubmit}>

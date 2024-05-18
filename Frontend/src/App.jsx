@@ -1,8 +1,8 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import Home from './assets/Home'
-import Login from './assets/Login'
-import Register from './assets/Register'
+import Home from './components/Home'
+import Login from './components/Login'
+import Register from './components/Register'
 
 
 function App() {
